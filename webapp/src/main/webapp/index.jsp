@@ -3,5 +3,6 @@
 <h2>Deploy into docker container</h2>
 <h2>Added Ansible usage for managing creation and runing of container</h2>
 <h2>Just added a new commit for poll SCM</h2>
+<h2>Now there is a full build & deploy process using 2 different playbooks with ansible</h2>
 <!-- <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2> -->
 <!-- <h2> Glad to see you here </h2> -->
